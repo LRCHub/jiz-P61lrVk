@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "RAGE OF DUST",
+  "base_artist": "SPYAIR",
+  "createdAt": "2025-12-06T17:54:32.423985Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "RAGE OF DUST",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/01_RAGE_OF_DUST_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "RAGE OF DUST",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/02_RAGE_OF_DUST_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "RAGE OF DUST",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/03_RAGE_OF_DUST_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "RAGE OF DUST [TV size] - TV Size",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/04_RAGE_OF_DUST_[TV_size]_-_TV_Size_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "RAGE OF DUST [TV SIZE]",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/05_RAGE_OF_DUST_[TV_SIZE]_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "RAGE OF DUST",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/06_RAGE_OF_DUST_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "RAGE OF DUST",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/07_RAGE_OF_DUST_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rage of Dust (TV Size)",
+      "artist": "Spyair",
+      "has_synced": true,
+      "path": "select/08_Rage_of_Dust_(TV_Size)_Spyair.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "RAGE OF DUST",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/09_RAGE_OF_DUST_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "RAGE OF DUST",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/10_RAGE_OF_DUST_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "RAGE OF DUST",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/11_RAGE_OF_DUST_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rage of Dust (Instrumental)",
+      "artist": "Spyair",
+      "has_synced": true,
+      "path": "select/12_Rage_of_Dust_(Instrumental)_Spyair.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rage of Dust  (Just Like This 2024 Live)",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/13_Rage_of_Dust_(Just_Like_This_2024_Live)_SPYAIR.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RAGE OF DUST",
+      "artist": "SPYAIR",
+      "has_synced": false,
+      "path": "select/pl_01_RAGE_OF_DUST_SPYAIR.txt"
+    }
+  ]
+}
